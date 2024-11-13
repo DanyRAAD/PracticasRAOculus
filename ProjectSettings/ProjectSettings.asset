@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DanielaRamirez
-  productName: practica8DanielaRamirez
+  productName: Laberinto
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -142,9 +142,9 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 4a098f7891df6b64896c08193f1e3e78, type: 2}
+  - {fileID: 11400000, guid: f92aeb3bde381654ab5334d5bd4bfab9, type: 2}
   - {fileID: -5738895465299997456, guid: 5ab12780335f44d4f852c56a7c87c74b, type: 2}
   - {fileID: 11400000, guid: bc37566a92d61a946b74c035f0bc8c7c, type: 2}
-  - {fileID: 11400000, guid: f92aeb3bde381654ab5334d5bd4bfab9, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -165,7 +165,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DanielaRamirez.practica8DanielaRamirez
+    Android: com.DanielaRamirez.Laberinto
   buildNumber:
     Standalone: 0
     VisionOS: 0
